@@ -1,5 +1,5 @@
 manifest_version: 1
 name: LongTextDeleter
-description: ""
+description: "If a Document's text is too long, delete it"
 url: https://github.com/alexcg1/executor-long-text-deleter
 keywords: [text]
