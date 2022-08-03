@@ -1,0 +1,4 @@
+jtype: LongTextDeleter
+metas:
+  py_modules:
+    - executor.py
